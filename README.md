@@ -12,7 +12,11 @@ How many symbols would you like?
 ```
 How many numbers would you like?
 ```
-The objective is to take the inputs from the user to these questions and then generate a random password. The requirement is to use the knowledge about Python lists and loops to complete the challenge. 
+The objective is to take the inputs from the user to these questions and then generate a random password. 
+
+Of course, there are more modules that can be used to make this easier. Check this one like this on [GeekFlare](https://geekflare.com/password-generator-python-code/)
+
+However, the requirement is to use the knowledge about Python lists and loops to complete the challenge. 
 
 ### Easy Version (Step 1)
 
